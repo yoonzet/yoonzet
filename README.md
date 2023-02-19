@@ -4,10 +4,33 @@
 <div align="center">
   
 ### 멈추지 않고 나아가는 개발자가 되겠습니다. 👩🏻‍💻
+  <br/> <br/> 
   
-  
+  안녕하세요. 프론트엔드 개발자를 준비하고 있는 이윤지입니다.
+   <br/> 
+ 저는 모든 일엔 풀 수 있는 실마리가 있다는 생각으로 끈기를 가지고 끝까지 해결하려 노력합니다. 
+ <br/> 
+  이러한 마음가짐으로 문제해결 과정에서 새로운 지식 습득과 성취감을 느끼며 성장할 수 있었습니다.  
+ <br/> 
+  시각디자인학과를 전공하였기 때문에 웹디자이너와 원활한 소통을 할 수 있는 장점을 가지고 있습니다. 
+   <br/> 
+  또한 사용자의 편의성을 위해 고민하고 인터렉티브한 모션구현 또한 시도해보는 것을 좋아합니다. 😊
+ <br/> <br/> 
+  . . .
+   
+### 저를 더 알고싶다면..
+  <a href="https://seemly-pamphlet-e16.notion.site/2023-FE-Resume-ed4bba946c57476dbcc8affaff98085f">
+    <img src="https://img.shields.io/badge/2023Resume-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  </a> 
+  <a href="https://jaylee-log.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+  </a> 
+  <a href="mailto:"yoonzet703@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a> 
 
-## 🛠️Tech Stack
+## 
+### 🛠️Tech Stack
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -26,7 +49,7 @@
  <br/> 
  <br/> 
   
-## 👫Cowork Tools
+### 👫Cowork Tools
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"> 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
@@ -39,8 +62,7 @@
   
   [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yoonzet&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonzet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-#### 저를 더 알고싶다면..
+ 
   
 </div>  
 
