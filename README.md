@@ -18,9 +18,9 @@
   . . .
    
 ### 저를 더 알고싶다면..
-  <a href="https://seemly-pamphlet-e16.notion.site/2023-FE-Resume-c3e508c6799447f59a244b2e13acecb3">
+<!--   <a href="https://seemly-pamphlet-e16.notion.site/2023-FE-Resume-c3e508c6799447f59a244b2e13acecb3">
     <img src="https://img.shields.io/badge/2023Resume-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  </a> 
+  </a>  -->
   <a href="https://jaylee-log.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
   </a> 
